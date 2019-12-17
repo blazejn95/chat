@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Data">
-      <HintPath>..\..\Data\Data\bin\Debug\Data.dll</HintPath>
+      <HintPath>D:\mychat\chat-master\Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
